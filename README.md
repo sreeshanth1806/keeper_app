@@ -32,7 +32,7 @@ The Keeper App helps users manage their notes with an intuitive UI and seamless 
 
 ## 🌐 Deployment
 
-🔗 [Live Demo Link](https://your-deployment-link.com)  
+🔗 [Live Demo Link](https://delightful-sorbet-a9bae2.netlify.app/)  
 *(Replace with your actual Netlify/Vercel deployment link)*
 
 ---
